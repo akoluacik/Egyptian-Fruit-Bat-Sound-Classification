@@ -1,0 +1,13 @@
+../X-CUBE-AI/App/all.c:537:9:all_configure_activations	24	static
+../X-CUBE-AI/App/all.c:575:9:all_configure_weights	24	static
+../X-CUBE-AI/App/all.c:632:9:ai_all_get_info	144	static
+../X-CUBE-AI/App/all.c:678:9:ai_all_get_report	144	static
+../X-CUBE-AI/App/all.c:724:10:ai_all_get_error	16	static
+../X-CUBE-AI/App/all.c:730:10:ai_all_create	24	static
+../X-CUBE-AI/App/all.c:740:10:ai_all_create_and_init	96	static
+../X-CUBE-AI/App/all.c:774:12:ai_all_inputs_get	16	static
+../X-CUBE-AI/App/all.c:784:12:ai_all_outputs_get	16	static
+../X-CUBE-AI/App/all.c:794:11:ai_all_destroy	16	static
+../X-CUBE-AI/App/all.c:800:9:ai_all_init	24	static
+../X-CUBE-AI/App/all.c:817:8:ai_all_run	24	static
+../X-CUBE-AI/App/all.c:824:8:ai_all_forward	16	static

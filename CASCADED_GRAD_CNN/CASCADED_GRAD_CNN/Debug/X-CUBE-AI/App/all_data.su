@@ -1,0 +1,4 @@
+../X-CUBE-AI/App/all_data.c:2854:11:ai_all_data_activations_buffer_get	72	static
+../X-CUBE-AI/App/all_data.c:2872:11:ai_all_data_weights_buffer_get	72	static
+../X-CUBE-AI/App/all_data.c:2890:11:ai_all_data_weights_get	4	static
+../X-CUBE-AI/App/all_data.c:2909:9:ai_all_data_params_get	32	static
