@@ -1,0 +1,13 @@
+../X-CUBE-AI/App/two_three.c:537:9:two_three_configure_activations	24	static
+../X-CUBE-AI/App/two_three.c:575:9:two_three_configure_weights	24	static
+../X-CUBE-AI/App/two_three.c:632:9:ai_two_three_get_info	144	static
+../X-CUBE-AI/App/two_three.c:678:9:ai_two_three_get_report	144	static
+../X-CUBE-AI/App/two_three.c:724:10:ai_two_three_get_error	16	static
+../X-CUBE-AI/App/two_three.c:730:10:ai_two_three_create	24	static
+../X-CUBE-AI/App/two_three.c:740:10:ai_two_three_create_and_init	96	static
+../X-CUBE-AI/App/two_three.c:774:12:ai_two_three_inputs_get	16	static
+../X-CUBE-AI/App/two_three.c:784:12:ai_two_three_outputs_get	16	static
+../X-CUBE-AI/App/two_three.c:794:11:ai_two_three_destroy	16	static
+../X-CUBE-AI/App/two_three.c:800:9:ai_two_three_init	24	static
+../X-CUBE-AI/App/two_three.c:817:8:ai_two_three_run	24	static
+../X-CUBE-AI/App/two_three.c:824:8:ai_two_three_forward	16	static

@@ -1,0 +1,4 @@
+../X-CUBE-AI/App/two_three_data.c:764:11:ai_two_three_data_activations_buffer_get	72	static
+../X-CUBE-AI/App/two_three_data.c:782:11:ai_two_three_data_weights_buffer_get	72	static
+../X-CUBE-AI/App/two_three_data.c:800:11:ai_two_three_data_weights_get	4	static
+../X-CUBE-AI/App/two_three_data.c:819:9:ai_two_three_data_params_get	32	static
